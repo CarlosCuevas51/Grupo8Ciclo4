@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(194, 217, 242);
+ }
+ 
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.text_primary {
+    color: rgb(132,134,136) !important;
+  }
